@@ -15,4 +15,4 @@ class Solution:
             
 sol=Solution()
 arr=[1, 1, 1, 3, 3, 2, 2, 2]
-print(sol.majority(arr))
+print(sol.majority(arr)) 
